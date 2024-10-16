@@ -1,1 +1,3 @@
-nacos/nacos-server:v2.3.0
+mysql:5.7.22
+nginx
+redis:5.0.14
