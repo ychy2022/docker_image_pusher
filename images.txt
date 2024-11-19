@@ -1,1 +1,1 @@
-openjdk:8-jre
+emqx/emqx:5.8.2
